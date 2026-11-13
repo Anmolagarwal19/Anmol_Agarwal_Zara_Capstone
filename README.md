@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Transactions-3.34M-2E5CA8?style=flat-square">
   <img src="https://img.shields.io/badge/Stores-35-6C4FA1?style=flat-square">
   <img src="https://img.shields.io/badge/Countries-7-3F8F58?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-In_Progress-C9922B?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Complete-3F8F58?style=flat-square">
 </p>
 
 <p align="center">
@@ -50,10 +50,10 @@ Rules applied consistently across Excel, SQL and Power BI so the three tools rec
 | Rule | Treatment |
 |---|---|
 | Money | Sum `Line Total`, never `Invoice Total` (it repeats on every line of an invoice) |
-| Invoices | Counted with a distinct count of `Invoice ID` |
-| Returns | Separate `RET-` invoices with negative totals; net sales = sales + returns |
+| Invoices | Counted once per sale invoice (one invoice has several lines); `RET-` return invoices are not counted |
+| Returns | Separate `RET-` invoices with a positive quantity but a negative `Line Total`; net sales = sales + returns, and returned units count as negative |
 | Currency | Converted to USD at fixed rates: 1 EUR = 1.08 USD, 1 GBP = 1.27 USD, 1 CNY = 0.14 USD |
-| Production cost | Stored in EUR, converted at 1.08 |
+| Production cost | Stored in EUR, converted at 1.08; 25 products with a cost about 100× too high are divided by 100 |
 | Gross margin | Net sales minus production cost × quantity, both in USD |
 | Partial year | 2025 runs to 18 March only, so it is compared with the same dates in 2024, never a full year |
 | Local-language names | Countries and cities such as 中国 and Deutschland translated to English so each country appears once |
@@ -139,20 +139,29 @@ Zara Capstone
 
 ```
 Anmol_Agarwal_Zara_Capstone
-├── 01_framing/
-│   ├── P1_Store_Operations_Framing.pdf
-│   ├── P2_Merchandising_Framing.pdf
-│   └── P3_Customer_Framing.pdf
-├── 02_excel/
-│   └── Zara_Store_Performance.xlsx         ← Power Query, Data Quality Log, model, dashboard
-├── 03_sql/
-│   ├── zara_pricing_margin.sql             ← Every query commented
-│   └── Zara_SQL_Output_Slides.pptx         ← Each output with its takeaway
-├── 04_powerbi/
-│   ├── Zara_Customer_Dashboard.pbix        ← Five-page report
-│   └── screenshots/                        ← Annotated page screenshots
-├── 05_exec_deck/
-│   └── Zara_Executive_Summary.pptx         ← 8 to 10 slide Demo Day deck
+├── 1_Framing_Notes/                         ← Part A and Part C
+│   ├── Problem Statement 1 ... – Framing Note.pdf
+│   ├── Problem Statement 2 ... – Framing Note.pdf
+│   ├── Problem Statement 3 ... – Framing Note.pdf
+│   └── Part C Recommendations – Zara Capstone.pdf
+├── 2_Excel/                                 ← Problem 1: Store performance
+│   ├── Zara_Problem1_Excel_Anmol_Agarwal.xlsx    ← Power Query, Data Quality Log, Power Pivot model, dashboard
+│   ├── Excel_PowerQuery_Cleaning_Steps.m         ← Power Query code, readable on GitHub
+│   ├── Excel_Dashboard.png
+│   └── Excel_Data_Model.png
+├── 3_SQL/                                   ← Problem 2: Pricing, promotions and margin
+│   ├── Zara_Problem2_SQL_Anmol_Agarwal.sql       ← Every query commented, with its result
+│   └── Zara_Problem2_SQL_Slides.pdf              ← Each query output with its takeaway
+├── 4_PowerBI/                               ← Problem 3: Customers and sales
+│   ├── Zara_Problem3_PowerBI.pbix                ← Five-page report (Git LFS)
+│   ├── Zara_Problem3_PowerBI_Annotated.pdf       ← Annotated page screenshots and insights
+│   ├── PowerBI_Data_Model.png
+│   └── Zara_Dark_Transparent_Theme.json
+├── 5_Executive_Deck/
+│   └── Zara_Executive_Summary_Deck.pdf           ← 10-slide Demo Day deck
+├── data/                                    ← The six raw CSVs (large files via Git LFS)
+├── csv_to_mysql.py                          ← Loads the CSVs into MySQL
+├── Zara Data Dictionary.pdf
 ├── cover.png
 └── README.md
 ```
@@ -161,32 +170,43 @@ Anmol_Agarwal_Zara_Capstone
 
 ## How to Use
 
-1. Clone or download this repository.
-2. The raw CSVs are not included because of file size. Download `Zara_Retail_Dataset.zip` separately.
-3. Load the CSVs into MySQL, then run the queries in `03_sql/`.
-4. Open the Excel workbook in Microsoft Excel (Power Pivot required) and use the slicers on the Dashboard sheet.
-5. Open the `.pbix` file in Power BI Desktop and navigate the five report pages.
+1. Install [Git LFS](https://git-lfs.com) (`git lfs install`), then clone this repository. `transactions.csv`, `customers.csv` and the `.pbix` are stored with Git LFS.
+2. The raw CSVs are in `data/`. To use MySQL, edit the settings at the top of `csv_to_mysql.py` and run it, then run `3_SQL/Zara_Problem2_SQL_Anmol_Agarwal.sql` from top to bottom.
+3. Open the Excel workbook in Microsoft Excel (Power Pivot required) and use the slicers on the Dashboard sheet. To refresh, point the Power Query sources at your copy of `data/`.
+4. Open the `.pbix` file in Power BI Desktop and navigate the five report pages with the icons at the top.
 
-<!--
-ADD AFTER THE ANALYSIS IS DONE (template conventions: real numbers only):
+---
 
 ## Key Metrics at a Glance
+
 | Metric | Value |
 |---|---|
-| Net sales 2024 (USD) | ... |
-| Gross margin % | ... |
-| Repeat customer rate | ... |
+| Net sales, 1 Jan 2023 – 18 Mar 2025 | $126.6M |
+| Net sales 2024 vs 2023 | $58.2M, +1.3% |
+| Active customers 2024 vs 2023 | 361K, +19.3% |
+| Spend per customer 2023 → 2024 | $190 → $161 |
+| Gross margin 2024 | 56.9% |
+| Gross margin at full price vs 70% off | 60.6% vs −40.8% |
+| First-time buyers who return within 90 days | 28.7% |
+| Revenue from the top 20% of customers | 60.8% |
 
 ## Key Insights
-1. **Problem 1 headline** — detail with numbers.
-2. **Problem 2 headline** — detail with numbers.
-3. **Problem 3 headline** — detail with numbers.
+
+1. **Weak stores serve fewer customers per employee.** Sales per employee range from $121K (Fifth Avenue) to $40K (Zeil), a 3× gap. The gap comes from invoices per employee (1,857 vs 495), not basket size. Saturday carries 22–29% of a week's sales.
+2. **Markdowns deeper than 50% lose money.** Gross margin falls from 60.6% at full price to −40.8% at 70% off. Only the first phase of a sale pays for itself. After Black Friday and the early Winter Sale, US/UK full-price sales fell 14.4% in the three weeks before Christmas 2024.
+3. **First-time sale shoppers come back less.** 51% of customers have bought only once. Customers whose first buy was on markdown return less often (49.1% vs 60.8%) and keep buying on markdown.
 
 ## Key Recommendations
-| # | Recommendation |
-|---|---|
-| 01 | ... |
--->
+
+| # | Recommendation | Problem | Effort |
+|---|---|---|---|
+| 01 | Cap markdowns at 50% (Kids 40%) and stop the 70% phase | Margin | Low |
+| 02 | Move staff hours to Friday–Saturday and December | Stores | Low |
+| 03 | Full-price voucher for first-time sale shoppers, tested with an A/B test | Customers | Medium |
+| 04 | Black Friday on overbought lines only; US/UK Winter Sale back to 26 Dec | Margin | Low |
+| 05 | Rebalance staff from 7 surplus stores to 5 short flagships | Stores | High |
+| 06 | Buy 10% less of coats, knitwear, kids' shoes and girls' wear | Margin | High |
+| 07 | Fix German returns and the Z1975 jeans fit | Stores / Margin | Low |
 
 ---
 
