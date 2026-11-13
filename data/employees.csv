@@ -1,0 +1,1747 @@
+Employee ID,Store ID,Name,Position
+1,1,Linda Jones,Store Manager
+2,1,David Taylor,Department Manager
+3,1,Ashley Martinez,Department Manager
+4,1,Jessica Brown,Department Manager
+5,1,David Moore,Department Manager
+6,1,Ashley Moore,Department Manager
+7,1,Jessica Brown,Visual Merchandiser
+8,1,David Davis,Visual Merchandiser
+9,1,David Anderson,Visual Merchandiser
+10,1,Elizabeth Anderson,Cashier
+11,1,Chris Lopez,Cashier
+12,1,James Johnson,Cashier
+13,1,James Jones,Cashier
+14,1,Elizabeth Miller,Cashier
+15,1,David Moore,Cashier
+16,1,Daniel Moore,Cashier
+17,1,Patricia Wilson,Stock Associate
+18,1,Sarah Anderson,Stock Associate
+19,1,Kevin Brown,Stock Associate
+20,1,Linda Anderson,Stock Associate
+21,1,Chris Jones,Stock Associate
+22,1,John Moore,Stock Associate
+23,1,Sarah Martinez,Stock Associate
+24,1,Sarah Garcia,Sales Associate
+25,1,James Anderson,Sales Associate
+26,1,Chris Lopez,Sales Associate
+27,1,Ashley Garcia,Sales Associate
+28,1,Daniel Lopez,Sales Associate
+29,1,Chris Smith,Sales Associate
+30,1,Michael Miller,Sales Associate
+31,1,Elizabeth Williams,Sales Associate
+32,1,Elizabeth Anderson,Sales Associate
+33,1,Sarah Anderson,Sales Associate
+34,1,Ashley Miller,Sales Associate
+35,1,Robert Lopez,Sales Associate
+36,1,Mary Moore,Sales Associate
+37,1,Patricia Johnson,Sales Associate
+38,1,James Williams,Sales Associate
+39,1,Daniel Moore,Sales Associate
+40,1,Daniel Taylor,Sales Associate
+41,1,Jennifer Miller,Sales Associate
+42,1,Ashley Brown,Sales Associate
+43,1,Mary Moore,Sales Associate
+44,1,David Wilson,Sales Associate
+45,1,Mary Wilson,Sales Associate
+46,1,Linda Brown,Sales Associate
+47,1,Jessica Jones,Sales Associate
+48,1,Jennifer Moore,Sales Associate
+49,1,Linda Garcia,Sales Associate
+50,1,Jennifer Wilson,Sales Associate
+51,1,Sarah Moore,Sales Associate
+52,2,Chris Anderson,Store Manager
+53,2,Robert Garcia,Department Manager
+54,2,Elizabeth Williams,Department Manager
+55,2,Robert Garcia,Department Manager
+56,2,Jennifer Williams,Visual Merchandiser
+57,2,Patricia Williams,Cashier
+58,2,James Moore,Cashier
+59,2,James Garcia,Cashier
+60,2,Kevin Davis,Cashier
+61,2,Chris Wilson,Cashier
+62,2,Kevin Smith,Cashier
+63,2,Jennifer Davis,Cashier
+64,2,Robert Miller,Cashier
+65,2,Robert Garcia,Cashier
+66,2,Mary Miller,Stock Associate
+67,2,Jessica Johnson,Stock Associate
+68,2,John Wilson,Stock Associate
+69,2,Patricia Anderson,Stock Associate
+70,2,David Lopez,Stock Associate
+71,2,Mary Anderson,Stock Associate
+72,2,Ashley Moore,Stock Associate
+73,2,Ashley Garcia,Stock Associate
+74,2,Linda Williams,Stock Associate
+75,2,David Brown,Sales Associate
+76,2,Jessica Moore,Sales Associate
+77,2,Mary Martinez,Sales Associate
+78,2,Kevin Lopez,Sales Associate
+79,2,Jessica Wilson,Sales Associate
+80,2,Jessica Anderson,Sales Associate
+81,2,Sarah Anderson,Sales Associate
+82,2,Michael Miller,Sales Associate
+83,2,James Moore,Sales Associate
+84,2,Mary Lopez,Sales Associate
+85,2,Sarah Lopez,Sales Associate
+86,2,Ashley Wilson,Sales Associate
+87,2,James Lopez,Sales Associate
+88,2,Michael Anderson,Sales Associate
+89,2,Chris Anderson,Sales Associate
+90,2,Michael Smith,Sales Associate
+91,2,Jessica Martinez,Sales Associate
+92,2,Sarah Johnson,Sales Associate
+93,2,Ashley Martinez,Sales Associate
+94,2,Chris Brown,Sales Associate
+95,2,Chris Jones,Sales Associate
+96,2,James Wilson,Sales Associate
+97,2,Michael Lopez,Sales Associate
+98,2,Robert Garcia,Sales Associate
+99,2,Linda Johnson,Sales Associate
+100,2,Jennifer Moore,Sales Associate
+101,2,Patricia Johnson,Sales Associate
+102,2,Kevin Martinez,Sales Associate
+103,2,Linda Moore,Sales Associate
+104,2,Chris Smith,Sales Associate
+105,2,Chris Smith,Sales Associate
+106,2,John Lopez,Sales Associate
+107,2,Patricia Lopez,Sales Associate
+108,2,Kevin Lopez,Sales Associate
+109,2,Jessica Jones,Sales Associate
+110,2,Patricia Moore,Sales Associate
+111,2,Daniel Johnson,Sales Associate
+112,2,Patricia Garcia,Sales Associate
+113,2,Robert Brown,Sales Associate
+114,3,Jennifer Garcia,Store Manager
+115,3,John Smith,Department Manager
+116,3,James Taylor,Department Manager
+117,3,John Anderson,Department Manager
+118,3,Ashley Taylor,Visual Merchandiser
+119,3,Ashley Anderson,Cashier
+120,3,Jennifer Jones,Cashier
+121,3,Daniel Taylor,Cashier
+122,3,Ashley Anderson,Cashier
+123,3,Patricia Brown,Cashier
+124,3,John Smith,Cashier
+125,3,Sarah Jones,Cashier
+126,3,Sarah Davis,Cashier
+127,3,Ashley Jones,Cashier
+128,3,Robert Martinez,Stock Associate
+129,3,Daniel Lopez,Stock Associate
+130,3,Michael Garcia,Stock Associate
+131,3,Mary Brown,Stock Associate
+132,3,Kevin Wilson,Stock Associate
+133,3,Jessica Lopez,Stock Associate
+134,3,Sarah Garcia,Stock Associate
+135,3,Robert Johnson,Stock Associate
+136,3,John Miller,Stock Associate
+137,3,Ashley Davis,Sales Associate
+138,3,Mary Lopez,Sales Associate
+139,3,Mary Williams,Sales Associate
+140,3,Chris Jones,Sales Associate
+141,3,Michael Smith,Sales Associate
+142,3,Mary Anderson,Sales Associate
+143,3,John Davis,Sales Associate
+144,3,Patricia Martinez,Sales Associate
+145,3,Elizabeth Lopez,Sales Associate
+146,3,Chris Lopez,Sales Associate
+147,3,Jennifer Brown,Sales Associate
+148,3,Jessica Johnson,Sales Associate
+149,3,Jessica Taylor,Sales Associate
+150,3,Mary Martinez,Sales Associate
+151,3,James Miller,Sales Associate
+152,3,Mary Smith,Sales Associate
+153,3,John Anderson,Sales Associate
+154,3,Elizabeth Smith,Sales Associate
+155,3,Robert Garcia,Sales Associate
+156,3,Mary Davis,Sales Associate
+157,3,Mary Smith,Sales Associate
+158,3,Kevin Miller,Sales Associate
+159,3,Jennifer Williams,Sales Associate
+160,3,Kevin Martinez,Sales Associate
+161,3,Jessica Anderson,Sales Associate
+162,3,James Garcia,Sales Associate
+163,3,Elizabeth Anderson,Sales Associate
+164,3,Elizabeth Martinez,Sales Associate
+165,3,Jennifer Garcia,Sales Associate
+166,3,James Wilson,Sales Associate
+167,3,Jessica Brown,Sales Associate
+168,3,Jennifer Martinez,Sales Associate
+169,3,Patricia Garcia,Sales Associate
+170,3,Robert Wilson,Sales Associate
+171,3,David Wilson,Sales Associate
+172,3,John Martinez,Sales Associate
+173,3,Jennifer Davis,Sales Associate
+174,3,Linda Smith,Sales Associate
+175,4,Daniel Williams,Store Manager
+176,4,Robert Garcia,Department Manager
+177,4,Jennifer Williams,Department Manager
+178,4,Robert Williams,Visual Merchandiser
+179,4,Elizabeth Williams,Cashier
+180,4,Chris Smith,Cashier
+181,4,Jessica Taylor,Cashier
+182,4,Linda Smith,Cashier
+183,4,Sarah Williams,Stock Associate
+184,4,Linda Martinez,Stock Associate
+185,4,James Martinez,Stock Associate
+186,4,Robert Anderson,Stock Associate
+187,4,Jennifer Johnson,Sales Associate
+188,4,Jessica Wilson,Sales Associate
+189,4,John Martinez,Sales Associate
+190,4,Jennifer Taylor,Sales Associate
+191,4,Chris Garcia,Sales Associate
+192,4,Ashley Lopez,Sales Associate
+193,4,Mary Davis,Sales Associate
+194,4,David Taylor,Sales Associate
+195,4,Michael Lopez,Sales Associate
+196,4,Elizabeth Wilson,Sales Associate
+197,4,Kevin Wilson,Sales Associate
+198,4,John Williams,Sales Associate
+199,4,Sarah Martinez,Sales Associate
+200,4,James Johnson,Sales Associate
+201,4,Chris Lopez,Sales Associate
+202,5,David Smith,Store Manager
+203,5,Jennifer Anderson,Department Manager
+204,5,Patricia Wilson,Department Manager
+205,5,John Johnson,Visual Merchandiser
+206,5,Elizabeth Wilson,Cashier
+207,5,Daniel Taylor,Cashier
+208,5,Linda Martinez,Cashier
+209,5,Mary Wilson,Cashier
+210,5,David Miller,Stock Associate
+211,5,Michael Garcia,Stock Associate
+212,5,John Lopez,Stock Associate
+213,5,David Moore,Stock Associate
+214,5,John Garcia,Sales Associate
+215,5,John Williams,Sales Associate
+216,5,Linda Jones,Sales Associate
+217,5,Michael Brown,Sales Associate
+218,5,Kevin Jones,Sales Associate
+219,5,Daniel Garcia,Sales Associate
+220,5,Jessica Williams,Sales Associate
+221,5,Daniel Garcia,Sales Associate
+222,5,Elizabeth Miller,Sales Associate
+223,5,Linda Davis,Sales Associate
+224,5,Jennifer Wilson,Sales Associate
+225,5,Sarah Garcia,Sales Associate
+226,5,Michael Lopez,Sales Associate
+227,5,Chris Wilson,Sales Associate
+228,5,Mary Taylor,Sales Associate
+229,5,Mary Davis,Sales Associate
+230,5,Michael Johnson,Sales Associate
+231,6,Wang Lei,Store Manager
+232,6,Zhao Fang,Department Manager
+233,6,Zhang Yu,Department Manager
+234,6,Liu Lei,Department Manager
+235,6,Zhao Bo,Department Manager
+236,6,Wu Bo,Department Manager
+237,6,Ma Lei,Visual Merchandiser
+238,6,Ma Wei,Visual Merchandiser
+239,6,Wu Bo,Visual Merchandiser
+240,6,Zhou Fang,Cashier
+241,6,Zhu Yu,Cashier
+242,6,Li Wei,Cashier
+243,6,Xu Ting,Cashier
+244,6,Xu Wei,Cashier
+245,6,Wang Min,Cashier
+246,6,Huang Bo,Cashier
+247,6,Yang Fang,Cashier
+248,6,Zhao Fang,Cashier
+249,6,Zhang Ting,Cashier
+250,6,Zhang Jing,Cashier
+251,6,Wu Ting,Cashier
+252,6,Ma Jun,Stock Associate
+253,6,Sun Li,Stock Associate
+254,6,Zhu Na,Stock Associate
+255,6,Liu Bo,Stock Associate
+256,6,Huang Xin,Stock Associate
+257,6,Liu Bo,Stock Associate
+258,6,Wang Min,Stock Associate
+259,6,Yang Yu,Stock Associate
+260,6,Ma Ting,Stock Associate
+261,6,Yang Yan,Stock Associate
+262,6,Zhao Lei,Stock Associate
+263,6,Zhou Na,Stock Associate
+264,6,Zhu Wei,Sales Associate
+265,6,Zhang Min,Sales Associate
+266,6,Liu Li,Sales Associate
+267,6,Zhao Fang,Sales Associate
+268,6,Zhang Wei,Sales Associate
+269,6,Ma Min,Sales Associate
+270,6,Zhao Jing,Sales Associate
+271,6,Xu Fang,Sales Associate
+272,6,Zhou Hao,Sales Associate
+273,6,Chen Jun,Sales Associate
+274,6,Wu Min,Sales Associate
+275,6,Zhou Li,Sales Associate
+276,6,Xu Jun,Sales Associate
+277,6,Wang Bo,Sales Associate
+278,6,Zhu Jun,Sales Associate
+279,6,Chen Li,Sales Associate
+280,6,Wu Hui,Sales Associate
+281,6,Sun Xin,Sales Associate
+282,6,Xu Hui,Sales Associate
+283,6,Sun Yu,Sales Associate
+284,6,Sun Hui,Sales Associate
+285,6,Zhou Lei,Sales Associate
+286,6,Li Lei,Sales Associate
+287,6,Chen Yu,Sales Associate
+288,6,Chen Hao,Sales Associate
+289,6,Huang Hao,Sales Associate
+290,6,Huang Chen,Sales Associate
+291,6,Ma Hao,Sales Associate
+292,6,Wu Lei,Sales Associate
+293,6,Zhang Chen,Sales Associate
+294,6,Zhou Ting,Sales Associate
+295,6,Ma Yan,Sales Associate
+296,6,Wang Fang,Sales Associate
+297,6,Huang Min,Sales Associate
+298,6,Liu Ting,Sales Associate
+299,6,Huang Hui,Sales Associate
+300,6,Huang Jun,Sales Associate
+301,6,Xu Hao,Sales Associate
+302,6,Wu Xin,Sales Associate
+303,6,Ma Ting,Sales Associate
+304,6,Yang Min,Sales Associate
+305,6,Zhang Hao,Sales Associate
+306,6,Li Fang,Sales Associate
+307,6,Zhu Yu,Sales Associate
+308,6,Chen Fang,Sales Associate
+309,6,Liu Jing,Sales Associate
+310,6,Zhu Jun,Sales Associate
+311,6,Ma Bo,Sales Associate
+312,6,Li Li,Sales Associate
+313,6,Huang Yan,Sales Associate
+314,6,Ma Bo,Sales Associate
+315,6,Huang Lei,Sales Associate
+316,7,Wang Fang,Store Manager
+317,7,Zhang Ting,Department Manager
+318,7,Chen Wei,Department Manager
+319,7,Zhao Xin,Department Manager
+320,7,Wu Yan,Visual Merchandiser
+321,7,Liu Min,Cashier
+322,7,Li Hao,Cashier
+323,7,Zhang Jing,Cashier
+324,7,Xu Bo,Cashier
+325,7,Wang Wei,Cashier
+326,7,Liu Min,Cashier
+327,7,Wu Yu,Cashier
+328,7,Zhang Jun,Cashier
+329,7,Yang Jing,Stock Associate
+330,7,Li Jing,Stock Associate
+331,7,Zhang Na,Stock Associate
+332,7,Liu Hao,Stock Associate
+333,7,Wang Min,Stock Associate
+334,7,Sun Xin,Stock Associate
+335,7,Zhang Li,Stock Associate
+336,7,Huang Na,Stock Associate
+337,7,Wu Hui,Sales Associate
+338,7,Zhang Fang,Sales Associate
+339,7,Sun Yan,Sales Associate
+340,7,Sun Jun,Sales Associate
+341,7,Zhao Xin,Sales Associate
+342,7,Yang Lei,Sales Associate
+343,7,Liu Bo,Sales Associate
+344,7,Xu Bo,Sales Associate
+345,7,Zhang Na,Sales Associate
+346,7,Zhou Jing,Sales Associate
+347,7,Zhu Xin,Sales Associate
+348,7,Ma Bo,Sales Associate
+349,7,Li Hao,Sales Associate
+350,7,Wu Bo,Sales Associate
+351,7,Zhou Lei,Sales Associate
+352,7,Xu Jun,Sales Associate
+353,7,Zhang Jun,Sales Associate
+354,7,Yang Ting,Sales Associate
+355,7,Wang Hao,Sales Associate
+356,7,Wang Fang,Sales Associate
+357,7,Zhao Jing,Sales Associate
+358,7,Zhu Wei,Sales Associate
+359,7,Wang Jing,Sales Associate
+360,7,Ma Xin,Sales Associate
+361,7,Ma Bo,Sales Associate
+362,7,Zhao Xin,Sales Associate
+363,7,Sun Jing,Sales Associate
+364,7,Xu Chen,Sales Associate
+365,7,Zhu Yan,Sales Associate
+366,7,Sun Fang,Sales Associate
+367,7,Zhou Hao,Sales Associate
+368,7,Liu Hui,Sales Associate
+369,7,Wang Ting,Sales Associate
+370,7,Ma Jing,Sales Associate
+371,7,Li Jun,Sales Associate
+372,7,Zhang Chen,Sales Associate
+373,7,Yang Bo,Sales Associate
+374,7,Ma Jing,Sales Associate
+375,8,Chen Ting,Store Manager
+376,8,Xu Yan,Department Manager
+377,8,Zhao Jing,Department Manager
+378,8,Liu Jun,Department Manager
+379,8,Li Li,Visual Merchandiser
+380,8,Wang Xin,Cashier
+381,8,Sun Chen,Cashier
+382,8,Chen Na,Cashier
+383,8,Wang Yu,Cashier
+384,8,Chen Yan,Cashier
+385,8,Zhao Chen,Cashier
+386,8,Zhang Hao,Cashier
+387,8,Zhao Fang,Cashier
+388,8,Chen Jing,Stock Associate
+389,8,Ma Bo,Stock Associate
+390,8,Chen Hao,Stock Associate
+391,8,Zhou Jing,Stock Associate
+392,8,Ma Wei,Stock Associate
+393,8,Zhao Xin,Stock Associate
+394,8,Liu Jun,Stock Associate
+395,8,Chen Li,Stock Associate
+396,8,Zhou Hao,Sales Associate
+397,8,Zhao Bo,Sales Associate
+398,8,Zhu Xin,Sales Associate
+399,8,Wang Xin,Sales Associate
+400,8,Li Jing,Sales Associate
+401,8,Huang Yu,Sales Associate
+402,8,Sun Hao,Sales Associate
+403,8,Chen Yan,Sales Associate
+404,8,Zhu Yan,Sales Associate
+405,8,Ma Xin,Sales Associate
+406,8,Yang Min,Sales Associate
+407,8,Ma Na,Sales Associate
+408,8,Li Chen,Sales Associate
+409,8,Zhu Min,Sales Associate
+410,8,Zhao Na,Sales Associate
+411,8,Zhou Xin,Sales Associate
+412,8,Liu Ting,Sales Associate
+413,8,Xu Yan,Sales Associate
+414,8,Chen Bo,Sales Associate
+415,8,Wang Jing,Sales Associate
+416,8,Chen Fang,Sales Associate
+417,8,Zhang Jing,Sales Associate
+418,8,Zhou Hao,Sales Associate
+419,8,Wang Bo,Sales Associate
+420,8,Liu Chen,Sales Associate
+421,8,Li Wei,Sales Associate
+422,8,Wu Yu,Sales Associate
+423,8,Li Hui,Sales Associate
+424,8,Zhou Yan,Sales Associate
+425,8,Zhang Chen,Sales Associate
+426,8,Zhu Hao,Sales Associate
+427,8,Liu Li,Sales Associate
+428,8,Li Na,Sales Associate
+429,8,Zhu Xin,Sales Associate
+430,8,Sun Bo,Sales Associate
+431,8,Zhang Jing,Sales Associate
+432,8,Xu Fang,Sales Associate
+433,8,Li Hao,Sales Associate
+434,9,Chen Fang,Store Manager
+435,9,Sun Chen,Department Manager
+436,9,Sun Bo,Department Manager
+437,9,Liu Hao,Visual Merchandiser
+438,9,Zhu Lei,Cashier
+439,9,Yang Li,Cashier
+440,9,Li Ting,Cashier
+441,9,Li Bo,Stock Associate
+442,9,Zhu Na,Stock Associate
+443,9,Ma Hao,Stock Associate
+444,9,Wu Xin,Sales Associate
+445,9,Zhao Xin,Sales Associate
+446,9,Liu Jun,Sales Associate
+447,9,Chen Lei,Sales Associate
+448,9,Chen Xin,Sales Associate
+449,9,Zhou Yan,Sales Associate
+450,9,Zhu Jing,Sales Associate
+451,9,Li Ting,Sales Associate
+452,9,Huang Ting,Sales Associate
+453,9,Huang Wei,Sales Associate
+454,9,Liu Fang,Sales Associate
+455,9,Ma Jing,Sales Associate
+456,9,Ma Hui,Sales Associate
+457,9,Yang Ting,Sales Associate
+458,10,Sun Xin,Store Manager
+459,10,Zhao Xin,Department Manager
+460,10,Huang Hui,Department Manager
+461,10,Wang Li,Visual Merchandiser
+462,10,Ma Na,Cashier
+463,10,Wu Lei,Cashier
+464,10,Wu Lei,Cashier
+465,10,Wu Min,Cashier
+466,10,Zhao Yan,Stock Associate
+467,10,Li Jing,Stock Associate
+468,10,Zhou Li,Stock Associate
+469,10,Liu Lei,Stock Associate
+470,10,Liu Li,Sales Associate
+471,10,Liu Lei,Sales Associate
+472,10,Chen Fang,Sales Associate
+473,10,Zhou Hui,Sales Associate
+474,10,Zhu Yan,Sales Associate
+475,10,Li Hao,Sales Associate
+476,10,Wang Wei,Sales Associate
+477,10,Liu Yu,Sales Associate
+478,10,Li Hui,Sales Associate
+479,10,Xu Chen,Sales Associate
+480,10,Huang Chen,Sales Associate
+481,10,Liu Xin,Sales Associate
+482,10,Wang Lei,Sales Associate
+483,10,Wu Chen,Sales Associate
+484,10,Liu Min,Sales Associate
+485,10,Xu Hao,Sales Associate
+486,10,Zhou Wei,Sales Associate
+487,10,Liu Jun,Sales Associate
+488,10,Liu Wei,Sales Associate
+489,10,Chen Min,Sales Associate
+490,11,Elias Richter,Store Manager
+491,11,Sophie Weber,Department Manager
+492,11,Max Becker,Department Manager
+493,11,Elias Müller,Department Manager
+494,11,Julia Wagner,Department Manager
+495,11,Leon Koch,Department Manager
+496,11,Marie Hoffmann,Visual Merchandiser
+497,11,Finn Meyer,Visual Merchandiser
+498,11,Julia Becker,Visual Merchandiser
+499,11,Laura Becker,Cashier
+500,11,Julia Meyer,Cashier
+501,11,Lukas Schmidt,Cashier
+502,11,Leon Weber,Cashier
+503,11,Lea Müller,Cashier
+504,11,Julia Wolf,Cashier
+505,11,Lukas Klein,Cashier
+506,11,Jonas Müller,Cashier
+507,11,Elias Koch,Cashier
+508,11,Leon Fischer,Cashier
+509,11,Lukas Becker,Cashier
+510,11,Laura Schmidt,Cashier
+511,11,Marie Klein,Cashier
+512,11,Hannah Hoffmann,Stock Associate
+513,11,Lukas Müller,Stock Associate
+514,11,Hannah Wagner,Stock Associate
+515,11,Finn Weber,Stock Associate
+516,11,Lukas Weber,Stock Associate
+517,11,Jonas Schmidt,Stock Associate
+518,11,Lea Hoffmann,Stock Associate
+519,11,Anna Koch,Stock Associate
+520,11,Paul Wagner,Stock Associate
+521,11,Leon Wagner,Stock Associate
+522,11,Lena Klein,Stock Associate
+523,11,Laura Schmidt,Stock Associate
+524,11,Elias Wolf,Stock Associate
+525,11,Lea Schneider,Sales Associate
+526,11,Leon Schneider,Sales Associate
+527,11,Sophie Richter,Sales Associate
+528,11,Jonas Wolf,Sales Associate
+529,11,Finn Weber,Sales Associate
+530,11,Marie Fischer,Sales Associate
+531,11,Finn Klein,Sales Associate
+532,11,Lena Meyer,Sales Associate
+533,11,Paul Becker,Sales Associate
+534,11,Leon Richter,Sales Associate
+535,11,Hannah Schulz,Sales Associate
+536,11,Paul Wolf,Sales Associate
+537,11,Marie Schulz,Sales Associate
+538,11,Paul Becker,Sales Associate
+539,11,Laura Meyer,Sales Associate
+540,11,Finn Hoffmann,Sales Associate
+541,11,Max Meyer,Sales Associate
+542,11,Jonas Wolf,Sales Associate
+543,11,Finn Richter,Sales Associate
+544,11,Lukas Schulz,Sales Associate
+545,11,Max Wagner,Sales Associate
+546,11,Hannah Fischer,Sales Associate
+547,11,Anna Weber,Sales Associate
+548,11,Sophie Hoffmann,Sales Associate
+549,11,Anna Schneider,Sales Associate
+550,11,Leon Becker,Sales Associate
+551,11,Finn Müller,Sales Associate
+552,11,Hannah Hoffmann,Sales Associate
+553,11,Lukas Klein,Sales Associate
+554,11,Jonas Richter,Sales Associate
+555,11,Finn Klein,Sales Associate
+556,11,Paul Meyer,Sales Associate
+557,11,Anna Wolf,Sales Associate
+558,11,Leon Schneider,Sales Associate
+559,11,Marie Hoffmann,Sales Associate
+560,11,Lena Koch,Sales Associate
+561,11,Lukas Meyer,Sales Associate
+562,11,Lea Wolf,Sales Associate
+563,11,Leon Schneider,Sales Associate
+564,11,Jonas Schneider,Sales Associate
+565,11,Anna Hoffmann,Sales Associate
+566,11,Jonas Müller,Sales Associate
+567,11,Laura Müller,Sales Associate
+568,11,Julia Koch,Sales Associate
+569,11,Julia Müller,Sales Associate
+570,11,Elias Richter,Sales Associate
+571,11,Felix Müller,Sales Associate
+572,11,Laura Klein,Sales Associate
+573,11,Marie Richter,Sales Associate
+574,11,Max Richter,Sales Associate
+575,11,Sophie Becker,Sales Associate
+576,11,Anna Becker,Sales Associate
+577,11,Jonas Klein,Sales Associate
+578,11,Paul Müller,Sales Associate
+579,11,Hannah Wolf,Sales Associate
+580,11,Elias Weber,Sales Associate
+581,11,Leon Schmidt,Sales Associate
+582,11,Hannah Schneider,Sales Associate
+583,11,Laura Schneider,Sales Associate
+584,11,Jonas Richter,Sales Associate
+585,11,Leon Becker,Sales Associate
+586,12,Paul Müller,Store Manager
+587,12,Felix Schulz,Department Manager
+588,12,Anna Koch,Department Manager
+589,12,Laura Schmidt,Department Manager
+590,12,Jonas Müller,Visual Merchandiser
+591,12,Sophie Müller,Cashier
+592,12,Leon Fischer,Cashier
+593,12,Max Becker,Cashier
+594,12,Finn Schmidt,Cashier
+595,12,Anna Weber,Cashier
+596,12,Sophie Fischer,Cashier
+597,12,Paul Wagner,Cashier
+598,12,Anna Klein,Cashier
+599,12,Marie Koch,Stock Associate
+600,12,Lukas Wagner,Stock Associate
+601,12,Leon Hoffmann,Stock Associate
+602,12,Julia Koch,Stock Associate
+603,12,Marie Hoffmann,Stock Associate
+604,12,Finn Fischer,Stock Associate
+605,12,Felix Meyer,Stock Associate
+606,12,Leon Fischer,Stock Associate
+607,12,Anna Fischer,Sales Associate
+608,12,Leon Schmidt,Sales Associate
+609,12,Jonas Wagner,Sales Associate
+610,12,Paul Schulz,Sales Associate
+611,12,Lena Koch,Sales Associate
+612,12,Lea Fischer,Sales Associate
+613,12,Max Richter,Sales Associate
+614,12,Felix Wolf,Sales Associate
+615,12,Max Klein,Sales Associate
+616,12,Anna Richter,Sales Associate
+617,12,Max Koch,Sales Associate
+618,12,Sophie Klein,Sales Associate
+619,12,Anna Wolf,Sales Associate
+620,12,Anna Hoffmann,Sales Associate
+621,12,Lea Klein,Sales Associate
+622,12,Elias Weber,Sales Associate
+623,12,Leon Richter,Sales Associate
+624,12,Sophie Koch,Sales Associate
+625,12,Felix Wagner,Sales Associate
+626,12,Marie Richter,Sales Associate
+627,12,Lea Hoffmann,Sales Associate
+628,12,Lea Müller,Sales Associate
+629,12,Hannah Müller,Sales Associate
+630,12,Anna Schmidt,Sales Associate
+631,12,Lea Weber,Sales Associate
+632,12,Sophie Klein,Sales Associate
+633,12,Lukas Hoffmann,Sales Associate
+634,12,Hannah Hoffmann,Sales Associate
+635,12,Paul Wagner,Sales Associate
+636,12,Elias Schulz,Sales Associate
+637,12,Anna Hoffmann,Sales Associate
+638,12,Laura Koch,Sales Associate
+639,12,Laura Wagner,Sales Associate
+640,12,Leon Schmidt,Sales Associate
+641,12,Hannah Hoffmann,Sales Associate
+642,12,Marie Richter,Sales Associate
+643,12,Max Weber,Sales Associate
+644,12,Max Fischer,Sales Associate
+645,12,Sophie Schulz,Sales Associate
+646,13,Hannah Richter,Store Manager
+647,13,Jonas Hoffmann,Department Manager
+648,13,Laura Fischer,Department Manager
+649,13,Felix Fischer,Department Manager
+650,13,Anna Weber,Visual Merchandiser
+651,13,Felix Fischer,Cashier
+652,13,Sophie Meyer,Cashier
+653,13,Felix Klein,Cashier
+654,13,Marie Becker,Cashier
+655,13,Sophie Schmidt,Cashier
+656,13,Sophie Richter,Cashier
+657,13,Anna Richter,Cashier
+658,13,Lukas Koch,Cashier
+659,13,Lukas Richter,Stock Associate
+660,13,Laura Wolf,Stock Associate
+661,13,Leon Meyer,Stock Associate
+662,13,Finn Richter,Stock Associate
+663,13,Anna Becker,Stock Associate
+664,13,Sophie Müller,Stock Associate
+665,13,Leon Koch,Stock Associate
+666,13,Finn Fischer,Stock Associate
+667,13,Sophie Schneider,Sales Associate
+668,13,Paul Schmidt,Sales Associate
+669,13,Elias Wolf,Sales Associate
+670,13,Felix Müller,Sales Associate
+671,13,Jonas Schmidt,Sales Associate
+672,13,Hannah Schulz,Sales Associate
+673,13,Laura Koch,Sales Associate
+674,13,Max Meyer,Sales Associate
+675,13,Marie Hoffmann,Sales Associate
+676,13,Anna Klein,Sales Associate
+677,13,Hannah Müller,Sales Associate
+678,13,Finn Schmidt,Sales Associate
+679,13,Anna Koch,Sales Associate
+680,13,Sophie Wagner,Sales Associate
+681,13,Leon Becker,Sales Associate
+682,13,Felix Hoffmann,Sales Associate
+683,13,Lukas Weber,Sales Associate
+684,13,Jonas Wagner,Sales Associate
+685,13,Lukas Richter,Sales Associate
+686,13,Lukas Richter,Sales Associate
+687,13,Sophie Wagner,Sales Associate
+688,13,Finn Meyer,Sales Associate
+689,13,Finn Müller,Sales Associate
+690,13,Lena Wagner,Sales Associate
+691,13,Julia Becker,Sales Associate
+692,13,Jonas Weber,Sales Associate
+693,13,Lukas Becker,Sales Associate
+694,13,Leon Müller,Sales Associate
+695,13,Lena Fischer,Sales Associate
+696,13,Laura Becker,Sales Associate
+697,13,Finn Wolf,Sales Associate
+698,13,Leon Schneider,Sales Associate
+699,13,Leon Schulz,Sales Associate
+700,13,Julia Becker,Sales Associate
+701,13,Anna Koch,Sales Associate
+702,13,Max Schmidt,Sales Associate
+703,13,Hannah Wolf,Sales Associate
+704,14,Paul Schmidt,Store Manager
+705,14,Lukas Schmidt,Department Manager
+706,14,Laura Becker,Department Manager
+707,14,Finn Wagner,Visual Merchandiser
+708,14,Anna Becker,Cashier
+709,14,Max Klein,Cashier
+710,14,Paul Fischer,Cashier
+711,14,Felix Weber,Cashier
+712,14,Marie Richter,Stock Associate
+713,14,Finn Koch,Stock Associate
+714,14,Julia Hoffmann,Stock Associate
+715,14,Felix Klein,Stock Associate
+716,14,Leon Wagner,Sales Associate
+717,14,Anna Wagner,Sales Associate
+718,14,Lukas Müller,Sales Associate
+719,14,Elias Meyer,Sales Associate
+720,14,Finn Wolf,Sales Associate
+721,14,Paul Schulz,Sales Associate
+722,14,Julia Richter,Sales Associate
+723,14,Finn Wagner,Sales Associate
+724,14,Marie Koch,Sales Associate
+725,14,Felix Richter,Sales Associate
+726,14,Leon Weber,Sales Associate
+727,14,Lena Becker,Sales Associate
+728,14,Paul Richter,Sales Associate
+729,14,Elias Schulz,Sales Associate
+730,14,Hannah Wagner,Sales Associate
+731,14,Leon Wagner,Sales Associate
+732,14,Sophie Koch,Sales Associate
+733,14,Hannah Wagner,Sales Associate
+734,15,Lukas Koch,Store Manager
+735,15,Paul Klein,Department Manager
+736,15,Laura Schulz,Department Manager
+737,15,Hannah Koch,Visual Merchandiser
+738,15,Laura Meyer,Cashier
+739,15,Lukas Wagner,Cashier
+740,15,Lea Richter,Cashier
+741,15,Marie Müller,Cashier
+742,15,Leon Koch,Cashier
+743,15,Hannah Schmidt,Cashier
+744,15,Hannah Becker,Stock Associate
+745,15,Finn Weber,Stock Associate
+746,15,Julia Weber,Stock Associate
+747,15,Jonas Schneider,Stock Associate
+748,15,Felix Meyer,Stock Associate
+749,15,Paul Wagner,Stock Associate
+750,15,Paul Schulz,Sales Associate
+751,15,Anna Hoffmann,Sales Associate
+752,15,Laura Wagner,Sales Associate
+753,15,Max Schmidt,Sales Associate
+754,15,Paul Schulz,Sales Associate
+755,15,Paul Fischer,Sales Associate
+756,15,Max Wagner,Sales Associate
+757,15,Felix Wagner,Sales Associate
+758,15,Finn Weber,Sales Associate
+759,15,Jonas Becker,Sales Associate
+760,15,Paul Müller,Sales Associate
+761,15,Elias Hoffmann,Sales Associate
+762,15,Laura Klein,Sales Associate
+763,15,Anna Klein,Sales Associate
+764,15,Max Klein,Sales Associate
+765,15,Sophie Weber,Sales Associate
+766,15,Hannah Wagner,Sales Associate
+767,15,Hannah Wolf,Sales Associate
+768,15,Jonas Hoffmann,Sales Associate
+769,15,Lukas Schneider,Sales Associate
+770,15,Jonas Meyer,Sales Associate
+771,15,Elias Koch,Sales Associate
+772,15,Julia Schulz,Sales Associate
+773,15,Hannah Schulz,Sales Associate
+774,15,Sophie Klein,Sales Associate
+775,15,Felix Becker,Sales Associate
+776,16,Emma Richard,Store Manager
+777,16,Hugo Bernard,Department Manager
+778,16,Jules Robert,Department Manager
+779,16,Hugo Bernard,Department Manager
+780,16,Arthur Moreau,Department Manager
+781,16,Camille Simon,Department Manager
+782,16,Hugo Petit,Visual Merchandiser
+783,16,Inès Robert,Visual Merchandiser
+784,16,Louis Robert,Visual Merchandiser
+785,16,Arthur Lefebvre,Cashier
+786,16,Emma Lefebvre,Cashier
+787,16,Raphaël Moreau,Cashier
+788,16,Chloé Michel,Cashier
+789,16,Emma Leroy,Cashier
+790,16,Gabriel Bernard,Cashier
+791,16,Jules Bernard,Cashier
+792,16,Sarah Martin,Stock Associate
+793,16,Manon Laurent,Stock Associate
+794,16,Lucas Martin,Stock Associate
+795,16,Jules Robert,Stock Associate
+796,16,Léa Petit,Stock Associate
+797,16,Raphaël Bernard,Stock Associate
+798,16,Léa Simon,Stock Associate
+799,16,Sarah Simon,Sales Associate
+800,16,Adam Simon,Sales Associate
+801,16,Adam Thomas,Sales Associate
+802,16,Lucas Robert,Sales Associate
+803,16,Jules Moreau,Sales Associate
+804,16,Manon Durand,Sales Associate
+805,16,Léa Dubois,Sales Associate
+806,16,Sarah Lefebvre,Sales Associate
+807,16,Manon Petit,Sales Associate
+808,16,Sarah Leroy,Sales Associate
+809,16,Emma Leroy,Sales Associate
+810,16,Jules Simon,Sales Associate
+811,16,Emma Bernard,Sales Associate
+812,16,Arthur Moreau,Sales Associate
+813,16,Chloé Dubois,Sales Associate
+814,16,Louis Robert,Sales Associate
+815,16,Gabriel Moreau,Sales Associate
+816,16,Lucas Dubois,Sales Associate
+817,16,Jules Robert,Sales Associate
+818,16,Camille Petit,Sales Associate
+819,16,Léa Laurent,Sales Associate
+820,16,Arthur Moreau,Sales Associate
+821,16,Louis Moreau,Sales Associate
+822,16,Raphaël Bernard,Sales Associate
+823,16,Hugo Bernard,Sales Associate
+824,16,Arthur Durand,Sales Associate
+825,16,Sarah Moreau,Sales Associate
+826,16,Raphaël Martin,Sales Associate
+827,17,Arthur Petit,Store Manager
+828,17,Jules Petit,Department Manager
+829,17,Jade Petit,Department Manager
+830,17,Jules Simon,Department Manager
+831,17,Camille Richard,Visual Merchandiser
+832,17,Jules Simon,Cashier
+833,17,Jade Simon,Cashier
+834,17,Chloé Thomas,Cashier
+835,17,Manon Leroy,Cashier
+836,17,Jade Moreau,Cashier
+837,17,Léa Simon,Cashier
+838,17,Camille Robert,Cashier
+839,17,Léa Petit,Cashier
+840,17,Emma Dubois,Stock Associate
+841,17,Chloé Michel,Stock Associate
+842,17,Sarah Laurent,Stock Associate
+843,17,Chloé Robert,Stock Associate
+844,17,Inès Robert,Stock Associate
+845,17,Lucas Thomas,Stock Associate
+846,17,Lucas Bernard,Stock Associate
+847,17,Manon Petit,Stock Associate
+848,17,Arthur Martin,Sales Associate
+849,17,Jade Durand,Sales Associate
+850,17,Hugo Durand,Sales Associate
+851,17,Jules Simon,Sales Associate
+852,17,Jules Simon,Sales Associate
+853,17,Gabriel Thomas,Sales Associate
+854,17,Adam Dubois,Sales Associate
+855,17,Chloé Simon,Sales Associate
+856,17,Inès Lefebvre,Sales Associate
+857,17,Camille Petit,Sales Associate
+858,17,Adam Laurent,Sales Associate
+859,17,Jade Thomas,Sales Associate
+860,17,Inès Petit,Sales Associate
+861,17,Adam Durand,Sales Associate
+862,17,Louis Simon,Sales Associate
+863,17,Inès Thomas,Sales Associate
+864,17,Chloé Leroy,Sales Associate
+865,17,Hugo Moreau,Sales Associate
+866,17,Manon Simon,Sales Associate
+867,17,Camille Leroy,Sales Associate
+868,17,Jules Thomas,Sales Associate
+869,17,Sarah Moreau,Sales Associate
+870,17,Gabriel Richard,Sales Associate
+871,17,Raphaël Laurent,Sales Associate
+872,17,Camille Leroy,Sales Associate
+873,17,Léa Lefebvre,Sales Associate
+874,17,Adam Thomas,Sales Associate
+875,17,Hugo Thomas,Sales Associate
+876,17,Raphaël Thomas,Sales Associate
+877,17,Jules Michel,Sales Associate
+878,17,Adam Simon,Sales Associate
+879,17,Gabriel Thomas,Sales Associate
+880,17,Lucas Richard,Sales Associate
+881,18,Chloé Richard,Store Manager
+882,18,Arthur Dubois,Department Manager
+883,18,Inès Lefebvre,Department Manager
+884,18,Camille Robert,Visual Merchandiser
+885,18,Léa Leroy,Cashier
+886,18,Hugo Durand,Cashier
+887,18,Inès Laurent,Cashier
+888,18,Adam Martin,Stock Associate
+889,18,Manon Durand,Stock Associate
+890,18,Adam Leroy,Stock Associate
+891,18,Lucas Thomas,Sales Associate
+892,18,Sarah Simon,Sales Associate
+893,18,Arthur Robert,Sales Associate
+894,18,Louis Leroy,Sales Associate
+895,18,Hugo Moreau,Sales Associate
+896,18,Léa Dubois,Sales Associate
+897,18,Adam Leroy,Sales Associate
+898,18,Adam Michel,Sales Associate
+899,18,Raphaël Leroy,Sales Associate
+900,18,Emma Leroy,Sales Associate
+901,18,Sarah Michel,Sales Associate
+902,18,Emma Robert,Sales Associate
+903,18,Chloé Leroy,Sales Associate
+904,18,Louis Moreau,Sales Associate
+905,19,Camille Laurent,Store Manager
+906,19,Camille Martin,Department Manager
+907,19,Sarah Bernard,Department Manager
+908,19,Gabriel Lefebvre,Visual Merchandiser
+909,19,Jules Simon,Cashier
+910,19,Jules Bernard,Cashier
+911,19,Jules Leroy,Cashier
+912,19,Lucas Lefebvre,Cashier
+913,19,Gabriel Robert,Cashier
+914,19,Hugo Simon,Stock Associate
+915,19,Gabriel Durand,Stock Associate
+916,19,Sarah Michel,Stock Associate
+917,19,Lucas Bernard,Stock Associate
+918,19,Inès Martin,Stock Associate
+919,19,Arthur Leroy,Sales Associate
+920,19,Manon Dubois,Sales Associate
+921,19,Hugo Michel,Sales Associate
+922,19,Inès Thomas,Sales Associate
+923,19,Camille Moreau,Sales Associate
+924,19,Gabriel Laurent,Sales Associate
+925,19,Arthur Petit,Sales Associate
+926,19,Lucas Richard,Sales Associate
+927,19,Gabriel Michel,Sales Associate
+928,19,Gabriel Leroy,Sales Associate
+929,19,Sarah Robert,Sales Associate
+930,19,Sarah Bernard,Sales Associate
+931,19,Gabriel Simon,Sales Associate
+932,19,Emma Martin,Sales Associate
+933,19,Gabriel Martin,Sales Associate
+934,19,Inès Moreau,Sales Associate
+935,19,Manon Moreau,Sales Associate
+936,19,Léa Laurent,Sales Associate
+937,19,Inès Leroy,Sales Associate
+938,20,Gabriel Simon,Store Manager
+939,20,Gabriel Lefebvre,Department Manager
+940,20,Manon Durand,Department Manager
+941,20,Camille Martin,Visual Merchandiser
+942,20,Arthur Dubois,Cashier
+943,20,Jade Bernard,Cashier
+944,20,Raphaël Petit,Cashier
+945,20,Jules Leroy,Cashier
+946,20,Jules Lefebvre,Cashier
+947,20,Lucas Thomas,Stock Associate
+948,20,Jules Robert,Stock Associate
+949,20,Léa Leroy,Stock Associate
+950,20,Emma Robert,Stock Associate
+951,20,Lucas Simon,Stock Associate
+952,20,Léa Durand,Sales Associate
+953,20,Louis Thomas,Sales Associate
+954,20,Lucas Moreau,Sales Associate
+955,20,Adam Moreau,Sales Associate
+956,20,Louis Richard,Sales Associate
+957,20,Jules Simon,Sales Associate
+958,20,Louis Simon,Sales Associate
+959,20,Inès Thomas,Sales Associate
+960,20,Léa Dubois,Sales Associate
+961,20,Gabriel Bernard,Sales Associate
+962,20,Louis Michel,Sales Associate
+963,20,Lucas Martin,Sales Associate
+964,20,Inès Robert,Sales Associate
+965,20,Arthur Thomas,Sales Associate
+966,20,Louis Leroy,Sales Associate
+967,20,Léa Lefebvre,Sales Associate
+968,20,Gabriel Laurent,Sales Associate
+969,20,Adam Laurent,Sales Associate
+970,20,Louis Robert,Sales Associate
+971,21,Paula Martínez,Store Manager
+972,21,Marta Gómez,Department Manager
+973,21,Diego Martínez,Department Manager
+974,21,Lucía Martín,Department Manager
+975,21,Pablo Jiménez,Department Manager
+976,21,Diego Pérez,Department Manager
+977,21,Alejandro López,Visual Merchandiser
+978,21,Alejandro Gómez,Visual Merchandiser
+979,21,Sofía Pérez,Visual Merchandiser
+980,21,Diego Jiménez,Cashier
+981,21,Álvaro Fernández,Cashier
+982,21,Alejandro Martín,Cashier
+983,21,Pablo Díaz,Cashier
+984,21,Marta Martín,Cashier
+985,21,Julia Fernández,Cashier
+986,21,Martín Martín,Cashier
+987,21,Javier Sánchez,Cashier
+988,21,Carmen Rodríguez,Cashier
+989,21,Julia Gómez,Cashier
+990,21,Diego Rodríguez,Cashier
+991,21,Hugo Pérez,Cashier
+992,21,Sofía Martínez,Cashier
+993,21,Lucía Martínez,Cashier
+994,21,Carmen Hernández,Stock Associate
+995,21,Lucía Jiménez,Stock Associate
+996,21,Diego Fernández,Stock Associate
+997,21,Alejandro Sánchez,Stock Associate
+998,21,Martín Rodríguez,Stock Associate
+999,21,Laura López,Stock Associate
+1000,21,Diego Gómez,Stock Associate
+1001,21,Hugo Gómez,Stock Associate
+1002,21,Carmen Gómez,Stock Associate
+1003,21,Álvaro Díaz,Stock Associate
+1004,21,Diego González,Stock Associate
+1005,21,Julia Gómez,Stock Associate
+1006,21,Pablo Díaz,Stock Associate
+1007,21,Hugo Martínez,Stock Associate
+1008,21,Marta Hernández,Sales Associate
+1009,21,Javier Fernández,Sales Associate
+1010,21,Hugo Gómez,Sales Associate
+1011,21,Marta González,Sales Associate
+1012,21,Diego García,Sales Associate
+1013,21,Paula Pérez,Sales Associate
+1014,21,Hugo Gómez,Sales Associate
+1015,21,Carmen Sánchez,Sales Associate
+1016,21,Daniel Jiménez,Sales Associate
+1017,21,Martín Martín,Sales Associate
+1018,21,Diego Hernández,Sales Associate
+1019,21,Paula Sánchez,Sales Associate
+1020,21,Daniel Díaz,Sales Associate
+1021,21,María Díaz,Sales Associate
+1022,21,Sofía Jiménez,Sales Associate
+1023,21,María Ruiz,Sales Associate
+1024,21,Hugo Jiménez,Sales Associate
+1025,21,Martín Sánchez,Sales Associate
+1026,21,Alejandro Díaz,Sales Associate
+1027,21,Alejandro Gómez,Sales Associate
+1028,21,Carmen Gómez,Sales Associate
+1029,21,Alejandro Sánchez,Sales Associate
+1030,21,Martín Fernández,Sales Associate
+1031,21,Laura Pérez,Sales Associate
+1032,21,Álvaro Sánchez,Sales Associate
+1033,21,Diego González,Sales Associate
+1034,21,Javier López,Sales Associate
+1035,21,Diego Jiménez,Sales Associate
+1036,21,Sofía Ruiz,Sales Associate
+1037,21,Laura García,Sales Associate
+1038,21,Martín Rodríguez,Sales Associate
+1039,21,Martín Sánchez,Sales Associate
+1040,21,Marta Sánchez,Sales Associate
+1041,21,Pablo Fernández,Sales Associate
+1042,21,Paula Hernández,Sales Associate
+1043,21,Paula Martín,Sales Associate
+1044,21,María Ruiz,Sales Associate
+1045,21,Marta Rodríguez,Sales Associate
+1046,21,Javier Díaz,Sales Associate
+1047,21,María Jiménez,Sales Associate
+1048,21,Sofía Gómez,Sales Associate
+1049,21,Hugo González,Sales Associate
+1050,21,Paula Sánchez,Sales Associate
+1051,21,Sofía Martínez,Sales Associate
+1052,21,Diego Martínez,Sales Associate
+1053,21,Diego Hernández,Sales Associate
+1054,21,Carmen García,Sales Associate
+1055,21,Daniel Jiménez,Sales Associate
+1056,21,Lucía Hernández,Sales Associate
+1057,21,Pablo Martín,Sales Associate
+1058,21,Laura González,Sales Associate
+1059,21,Daniel Pérez,Sales Associate
+1060,21,Lucía Jiménez,Sales Associate
+1061,21,Carmen García,Sales Associate
+1062,21,Diego Díaz,Sales Associate
+1063,21,Laura López,Sales Associate
+1064,21,Marta Martínez,Sales Associate
+1065,21,Álvaro Rodríguez,Sales Associate
+1066,21,Laura Rodríguez,Sales Associate
+1067,21,Javier García,Sales Associate
+1068,21,María Martínez,Sales Associate
+1069,21,Hugo Gómez,Sales Associate
+1070,21,Sofía Martínez,Sales Associate
+1071,22,Marta Pérez,Store Manager
+1072,22,Diego González,Department Manager
+1073,22,Javier Sánchez,Department Manager
+1074,22,Sofía Gómez,Department Manager
+1075,22,Pablo Pérez,Department Manager
+1076,22,Marta Jiménez,Department Manager
+1077,22,Sofía Martínez,Visual Merchandiser
+1078,22,Julia Hernández,Visual Merchandiser
+1079,22,Carmen Díaz,Visual Merchandiser
+1080,22,Pablo Díaz,Cashier
+1081,22,Hugo Gómez,Cashier
+1082,22,María Ruiz,Cashier
+1083,22,Lucía García,Cashier
+1084,22,María Martínez,Cashier
+1085,22,Marta Sánchez,Cashier
+1086,22,Hugo Pérez,Cashier
+1087,22,Laura Fernández,Cashier
+1088,22,Diego Martínez,Cashier
+1089,22,Álvaro Rodríguez,Cashier
+1090,22,Laura Ruiz,Cashier
+1091,22,Diego Hernández,Cashier
+1092,22,Lucía Hernández,Cashier
+1093,22,Javier García,Cashier
+1094,22,Daniel García,Cashier
+1095,22,Sofía Rodríguez,Stock Associate
+1096,22,Álvaro Rodríguez,Stock Associate
+1097,22,Diego Rodríguez,Stock Associate
+1098,22,Paula Sánchez,Stock Associate
+1099,22,Hugo Pérez,Stock Associate
+1100,22,Pablo Jiménez,Stock Associate
+1101,22,Alejandro Fernández,Stock Associate
+1102,22,Álvaro Fernández,Stock Associate
+1103,22,Hugo Díaz,Stock Associate
+1104,22,Carmen Rodríguez,Stock Associate
+1105,22,Javier López,Stock Associate
+1106,22,Pablo Gómez,Stock Associate
+1107,22,Lucía Gómez,Stock Associate
+1108,22,Julia Martínez,Stock Associate
+1109,22,Javier López,Stock Associate
+1110,22,Marta García,Sales Associate
+1111,22,Diego Fernández,Sales Associate
+1112,22,Martín Gómez,Sales Associate
+1113,22,Alejandro Rodríguez,Sales Associate
+1114,22,Hugo Rodríguez,Sales Associate
+1115,22,Sofía González,Sales Associate
+1116,22,Laura López,Sales Associate
+1117,22,Laura García,Sales Associate
+1118,22,Sofía Jiménez,Sales Associate
+1119,22,Julia Sánchez,Sales Associate
+1120,22,Laura González,Sales Associate
+1121,22,Javier Jiménez,Sales Associate
+1122,22,María Fernández,Sales Associate
+1123,22,Alejandro Pérez,Sales Associate
+1124,22,Sofía González,Sales Associate
+1125,22,Javier González,Sales Associate
+1126,22,Julia Ruiz,Sales Associate
+1127,22,Alejandro González,Sales Associate
+1128,22,María Sánchez,Sales Associate
+1129,22,Daniel López,Sales Associate
+1130,22,Laura García,Sales Associate
+1131,22,Pablo García,Sales Associate
+1132,22,Hugo López,Sales Associate
+1133,22,Javier Martínez,Sales Associate
+1134,22,Alejandro González,Sales Associate
+1135,22,Pablo Hernández,Sales Associate
+1136,22,Lucía Ruiz,Sales Associate
+1137,22,Laura Hernández,Sales Associate
+1138,22,Laura Jiménez,Sales Associate
+1139,22,Sofía Fernández,Sales Associate
+1140,22,Julia Fernández,Sales Associate
+1141,22,Marta Fernández,Sales Associate
+1142,22,Carmen García,Sales Associate
+1143,22,Pablo Martín,Sales Associate
+1144,22,Paula Ruiz,Sales Associate
+1145,22,María Pérez,Sales Associate
+1146,22,Álvaro Martín,Sales Associate
+1147,22,Julia Martínez,Sales Associate
+1148,22,Diego Sánchez,Sales Associate
+1149,22,Hugo Gómez,Sales Associate
+1150,22,Álvaro Gómez,Sales Associate
+1151,22,Marta González,Sales Associate
+1152,22,Hugo García,Sales Associate
+1153,22,Martín González,Sales Associate
+1154,22,María Martín,Sales Associate
+1155,22,Paula Rodríguez,Sales Associate
+1156,22,Marta Sánchez,Sales Associate
+1157,22,Julia Jiménez,Sales Associate
+1158,22,Marta Pérez,Sales Associate
+1159,22,Marta Fernández,Sales Associate
+1160,22,Marta López,Sales Associate
+1161,22,Sofía Martínez,Sales Associate
+1162,22,Laura Ruiz,Sales Associate
+1163,22,Martín Díaz,Sales Associate
+1164,22,Álvaro Gómez,Sales Associate
+1165,22,Lucía Fernández,Sales Associate
+1166,22,Sofía Ruiz,Sales Associate
+1167,22,Marta Hernández,Sales Associate
+1168,22,Lucía Hernández,Sales Associate
+1169,22,Paula Sánchez,Sales Associate
+1170,22,Martín García,Sales Associate
+1171,22,Martín Rodríguez,Sales Associate
+1172,22,Julia Gómez,Sales Associate
+1173,22,Hugo Fernández,Sales Associate
+1174,22,Paula Gómez,Sales Associate
+1175,22,Hugo Fernández,Sales Associate
+1176,22,Daniel Gómez,Sales Associate
+1177,23,María Díaz,Store Manager
+1178,23,Paula López,Department Manager
+1179,23,Pablo Pérez,Department Manager
+1180,23,Carmen González,Department Manager
+1181,23,Paula Sánchez,Visual Merchandiser
+1182,23,Daniel Fernández,Cashier
+1183,23,Diego Ruiz,Cashier
+1184,23,Paula Sánchez,Cashier
+1185,23,Laura Gómez,Cashier
+1186,23,Álvaro García,Cashier
+1187,23,Marta Hernández,Cashier
+1188,23,Paula López,Cashier
+1189,23,Pablo Jiménez,Stock Associate
+1190,23,Sofía González,Stock Associate
+1191,23,Carmen Hernández,Stock Associate
+1192,23,Paula Gómez,Stock Associate
+1193,23,Alejandro García,Stock Associate
+1194,23,Marta Gómez,Stock Associate
+1195,23,Lucía González,Stock Associate
+1196,23,Carmen Rodríguez,Sales Associate
+1197,23,Daniel Martínez,Sales Associate
+1198,23,Laura García,Sales Associate
+1199,23,Carmen González,Sales Associate
+1200,23,Lucía Rodríguez,Sales Associate
+1201,23,Javier Gómez,Sales Associate
+1202,23,Marta López,Sales Associate
+1203,23,Lucía Díaz,Sales Associate
+1204,23,Laura García,Sales Associate
+1205,23,Martín Díaz,Sales Associate
+1206,23,Paula Sánchez,Sales Associate
+1207,23,Laura Gómez,Sales Associate
+1208,23,Laura Díaz,Sales Associate
+1209,23,María González,Sales Associate
+1210,23,Martín González,Sales Associate
+1211,23,Javier Gómez,Sales Associate
+1212,23,Diego González,Sales Associate
+1213,23,Marta Rodríguez,Sales Associate
+1214,23,Julia Pérez,Sales Associate
+1215,23,Martín González,Sales Associate
+1216,23,Diego Rodríguez,Sales Associate
+1217,23,Álvaro Rodríguez,Sales Associate
+1218,23,Hugo López,Sales Associate
+1219,23,Pablo López,Sales Associate
+1220,23,Daniel Sánchez,Sales Associate
+1221,23,Lucía Fernández,Sales Associate
+1222,23,Laura Jiménez,Sales Associate
+1223,23,Javier Martín,Sales Associate
+1224,23,Marta Hernández,Sales Associate
+1225,24,Alejandro López,Store Manager
+1226,24,María Martín,Department Manager
+1227,24,Marta Fernández,Department Manager
+1228,24,Marta Jiménez,Visual Merchandiser
+1229,24,María Díaz,Cashier
+1230,24,María Pérez,Cashier
+1231,24,María García,Cashier
+1232,24,Diego Jiménez,Cashier
+1233,24,Sofía Jiménez,Stock Associate
+1234,24,Daniel Ruiz,Stock Associate
+1235,24,Carmen Gómez,Stock Associate
+1236,24,Álvaro Martínez,Stock Associate
+1237,24,Carmen Jiménez,Sales Associate
+1238,24,María Rodríguez,Sales Associate
+1239,24,Marta Gómez,Sales Associate
+1240,24,Álvaro Rodríguez,Sales Associate
+1241,24,Javier Ruiz,Sales Associate
+1242,24,Carmen Pérez,Sales Associate
+1243,24,Carmen López,Sales Associate
+1244,24,Alejandro García,Sales Associate
+1245,24,Laura Martín,Sales Associate
+1246,24,Sofía Jiménez,Sales Associate
+1247,24,Sofía Pérez,Sales Associate
+1248,24,Carmen Martín,Sales Associate
+1249,24,Martín Martínez,Sales Associate
+1250,24,Martín Jiménez,Sales Associate
+1251,24,Lucía Hernández,Sales Associate
+1252,24,Alejandro Rodríguez,Sales Associate
+1253,24,Paula Gómez,Sales Associate
+1254,24,Lucía González,Sales Associate
+1255,24,Alejandro Gómez,Sales Associate
+1256,25,Paula López,Store Manager
+1257,25,Alejandro López,Department Manager
+1258,25,Álvaro Gómez,Department Manager
+1259,25,Martín Martín,Visual Merchandiser
+1260,25,Diego Rodríguez,Cashier
+1261,25,Laura González,Cashier
+1262,25,María González,Cashier
+1263,25,Daniel Díaz,Cashier
+1264,25,Paula Sánchez,Stock Associate
+1265,25,Carmen Fernández,Stock Associate
+1266,25,Hugo López,Stock Associate
+1267,25,Alejandro Pérez,Stock Associate
+1268,25,Martín Jiménez,Sales Associate
+1269,25,Daniel Martínez,Sales Associate
+1270,25,Hugo Fernández,Sales Associate
+1271,25,Alejandro García,Sales Associate
+1272,25,Alejandro Sánchez,Sales Associate
+1273,25,Diego Ruiz,Sales Associate
+1274,25,Carmen García,Sales Associate
+1275,25,Carmen Díaz,Sales Associate
+1276,25,Paula Jiménez,Sales Associate
+1277,25,Paula Martínez,Sales Associate
+1278,25,Julia Ruiz,Sales Associate
+1279,25,Laura Jiménez,Sales Associate
+1280,25,Javier Pérez,Sales Associate
+1281,25,Laura Jiménez,Sales Associate
+1282,25,Lucía Hernández,Sales Associate
+1283,25,Daniel Martínez,Sales Associate
+1284,26,Leonor Lopes,Store Manager
+1285,26,Matilde Ferreira,Department Manager
+1286,26,Francisco Ferreira,Department Manager
+1287,26,Beatriz Rodrigues,Department Manager
+1288,26,Rodrigo Gonçalves,Department Manager
+1289,26,Afonso Pereira,Department Manager
+1290,26,Matilde Oliveira,Visual Merchandiser
+1291,26,Mariana Martins,Visual Merchandiser
+1292,26,Afonso Costa,Visual Merchandiser
+1293,26,Carolina Fernandes,Cashier
+1294,26,Maria Costa,Cashier
+1295,26,Matilde Pereira,Cashier
+1296,26,Rodrigo Ferreira,Cashier
+1297,26,Duarte Santos,Cashier
+1298,26,Martim Costa,Cashier
+1299,26,Leonor Gomes,Cashier
+1300,26,Inês Sousa,Cashier
+1301,26,Beatriz Costa,Cashier
+1302,26,João Jesus,Cashier
+1303,26,Carolina Ferreira,Cashier
+1304,26,João Silva,Cashier
+1305,26,Duarte Ferreira,Stock Associate
+1306,26,Carolina Martins,Stock Associate
+1307,26,Inês Lopes,Stock Associate
+1308,26,Miguel Rodrigues,Stock Associate
+1309,26,Tiago Silva,Stock Associate
+1310,26,Beatriz Pereira,Stock Associate
+1311,26,Francisco Oliveira,Stock Associate
+1312,26,Maria Fernandes,Stock Associate
+1313,26,Francisco Pereira,Stock Associate
+1314,26,Martim Ferreira,Stock Associate
+1315,26,Afonso Jesus,Stock Associate
+1316,26,Afonso Sousa,Stock Associate
+1317,26,Afonso Rodrigues,Sales Associate
+1318,26,Francisco Sousa,Sales Associate
+1319,26,Miguel Santos,Sales Associate
+1320,26,Francisco Sousa,Sales Associate
+1321,26,Ana Costa,Sales Associate
+1322,26,Inês Fernandes,Sales Associate
+1323,26,Rodrigo Gomes,Sales Associate
+1324,26,Matilde Fernandes,Sales Associate
+1325,26,Leonor Lopes,Sales Associate
+1326,26,Inês Ferreira,Sales Associate
+1327,26,Miguel Gomes,Sales Associate
+1328,26,Mariana Martins,Sales Associate
+1329,26,Leonor Ferreira,Sales Associate
+1330,26,Rodrigo Ferreira,Sales Associate
+1331,26,Carolina Sousa,Sales Associate
+1332,26,Francisco Gonçalves,Sales Associate
+1333,26,Beatriz Oliveira,Sales Associate
+1334,26,Francisco Costa,Sales Associate
+1335,26,Mariana Oliveira,Sales Associate
+1336,26,Mariana Fernandes,Sales Associate
+1337,26,Francisco Martins,Sales Associate
+1338,26,Afonso Fernandes,Sales Associate
+1339,26,Afonso Sousa,Sales Associate
+1340,26,Inês Santos,Sales Associate
+1341,26,Mariana Gomes,Sales Associate
+1342,26,João Lopes,Sales Associate
+1343,26,João Gonçalves,Sales Associate
+1344,26,Rodrigo Lopes,Sales Associate
+1345,26,Francisco Silva,Sales Associate
+1346,26,Beatriz Lopes,Sales Associate
+1347,26,Carolina Santos,Sales Associate
+1348,26,Inês Santos,Sales Associate
+1349,26,Miguel Oliveira,Sales Associate
+1350,26,Francisco Lopes,Sales Associate
+1351,26,Rodrigo Rodrigues,Sales Associate
+1352,26,Maria Gomes,Sales Associate
+1353,26,Tiago Santos,Sales Associate
+1354,26,Afonso Oliveira,Sales Associate
+1355,26,Duarte Silva,Sales Associate
+1356,26,Martim Costa,Sales Associate
+1357,26,Francisco Oliveira,Sales Associate
+1358,26,Beatriz Jesus,Sales Associate
+1359,26,Maria Oliveira,Sales Associate
+1360,26,Tiago Jesus,Sales Associate
+1361,26,Tiago Sousa,Sales Associate
+1362,26,João Pereira,Sales Associate
+1363,26,Miguel Oliveira,Sales Associate
+1364,26,Leonor Gonçalves,Sales Associate
+1365,26,Leonor Costa,Sales Associate
+1366,26,Miguel Gonçalves,Sales Associate
+1367,26,Maria Fernandes,Sales Associate
+1368,26,Maria Jesus,Sales Associate
+1369,26,Beatriz Oliveira,Sales Associate
+1370,26,Matilde Santos,Sales Associate
+1371,26,Mariana Lopes,Sales Associate
+1372,27,Martim Gonçalves,Store Manager
+1373,27,Ana Fernandes,Department Manager
+1374,27,Carolina Rodrigues,Department Manager
+1375,27,Afonso Rodrigues,Department Manager
+1376,27,Mariana Costa,Visual Merchandiser
+1377,27,Mariana Ferreira,Cashier
+1378,27,Duarte Gonçalves,Cashier
+1379,27,Rodrigo Jesus,Cashier
+1380,27,Beatriz Ferreira,Cashier
+1381,27,Tiago Sousa,Cashier
+1382,27,Matilde Pereira,Cashier
+1383,27,Ana Lopes,Stock Associate
+1384,27,João Lopes,Stock Associate
+1385,27,João Santos,Stock Associate
+1386,27,Beatriz Rodrigues,Stock Associate
+1387,27,Ana Santos,Stock Associate
+1388,27,Miguel Fernandes,Stock Associate
+1389,27,Mariana Santos,Sales Associate
+1390,27,Matilde Silva,Sales Associate
+1391,27,Beatriz Silva,Sales Associate
+1392,27,Carolina Jesus,Sales Associate
+1393,27,Mariana Rodrigues,Sales Associate
+1394,27,Rodrigo Sousa,Sales Associate
+1395,27,João Gomes,Sales Associate
+1396,27,João Gonçalves,Sales Associate
+1397,27,Afonso Santos,Sales Associate
+1398,27,João Gonçalves,Sales Associate
+1399,27,João Santos,Sales Associate
+1400,27,Maria Rodrigues,Sales Associate
+1401,27,Afonso Santos,Sales Associate
+1402,27,Tiago Sousa,Sales Associate
+1403,27,João Rodrigues,Sales Associate
+1404,27,Leonor Martins,Sales Associate
+1405,27,Rodrigo Fernandes,Sales Associate
+1406,27,Rodrigo Oliveira,Sales Associate
+1407,27,Maria Silva,Sales Associate
+1408,27,Afonso Pereira,Sales Associate
+1409,27,Beatriz Gonçalves,Sales Associate
+1410,27,Duarte Martins,Sales Associate
+1411,27,Francisco Rodrigues,Sales Associate
+1412,27,Rodrigo Santos,Sales Associate
+1413,27,João Rodrigues,Sales Associate
+1414,27,Mariana Pereira,Sales Associate
+1415,27,Miguel Pereira,Sales Associate
+1416,27,Matilde Sousa,Sales Associate
+1417,27,Leonor Rodrigues,Sales Associate
+1418,28,Afonso Gonçalves,Store Manager
+1419,28,Carolina Oliveira,Department Manager
+1420,28,Francisco Santos,Department Manager
+1421,28,Tiago Jesus,Visual Merchandiser
+1422,28,Duarte Jesus,Cashier
+1423,28,Inês Ferreira,Cashier
+1424,28,Martim Gonçalves,Cashier
+1425,28,Tiago Jesus,Cashier
+1426,28,Martim Sousa,Cashier
+1427,28,Martim Rodrigues,Cashier
+1428,28,Leonor Costa,Stock Associate
+1429,28,Afonso Jesus,Stock Associate
+1430,28,Francisco Silva,Stock Associate
+1431,28,Francisco Ferreira,Stock Associate
+1432,28,Mariana Jesus,Stock Associate
+1433,28,Beatriz Ferreira,Stock Associate
+1434,28,Afonso Costa,Sales Associate
+1435,28,Carolina Santos,Sales Associate
+1436,28,Inês Costa,Sales Associate
+1437,28,Carolina Silva,Sales Associate
+1438,28,Mariana Gomes,Sales Associate
+1439,28,Francisco Silva,Sales Associate
+1440,28,Carolina Silva,Sales Associate
+1441,28,João Costa,Sales Associate
+1442,28,Rodrigo Ferreira,Sales Associate
+1443,28,Ana Fernandes,Sales Associate
+1444,28,Duarte Rodrigues,Sales Associate
+1445,28,Beatriz Pereira,Sales Associate
+1446,28,Ana Rodrigues,Sales Associate
+1447,28,Inês Ferreira,Sales Associate
+1448,28,Leonor Gonçalves,Sales Associate
+1449,28,Martim Jesus,Sales Associate
+1450,28,Francisco Martins,Sales Associate
+1451,28,Beatriz Lopes,Sales Associate
+1452,28,Inês Ferreira,Sales Associate
+1453,28,Inês Martins,Sales Associate
+1454,28,Afonso Martins,Sales Associate
+1455,28,Tiago Jesus,Sales Associate
+1456,28,Martim Sousa,Sales Associate
+1457,28,Maria Rodrigues,Sales Associate
+1458,28,Beatriz Fernandes,Sales Associate
+1459,28,Mariana Martins,Sales Associate
+1460,28,Leonor Santos,Sales Associate
+1461,28,Ana Sousa,Sales Associate
+1462,29,Francisco Rodrigues,Store Manager
+1463,29,Francisco Gomes,Department Manager
+1464,29,Beatriz Oliveira,Department Manager
+1465,29,Maria Gonçalves,Visual Merchandiser
+1466,29,Beatriz Martins,Cashier
+1467,29,Mariana Martins,Cashier
+1468,29,Afonso Gomes,Cashier
+1469,29,Carolina Ferreira,Cashier
+1470,29,Mariana Gomes,Cashier
+1471,29,Tiago Lopes,Cashier
+1472,29,Inês Gonçalves,Stock Associate
+1473,29,João Martins,Stock Associate
+1474,29,Duarte Sousa,Stock Associate
+1475,29,Carolina Fernandes,Stock Associate
+1476,29,Ana Oliveira,Stock Associate
+1477,29,Miguel Gonçalves,Stock Associate
+1478,29,Tiago Sousa,Sales Associate
+1479,29,Tiago Gonçalves,Sales Associate
+1480,29,Francisco Silva,Sales Associate
+1481,29,Duarte Martins,Sales Associate
+1482,29,Matilde Costa,Sales Associate
+1483,29,Leonor Martins,Sales Associate
+1484,29,Tiago Sousa,Sales Associate
+1485,29,Mariana Pereira,Sales Associate
+1486,29,Mariana Rodrigues,Sales Associate
+1487,29,Mariana Oliveira,Sales Associate
+1488,29,Rodrigo Oliveira,Sales Associate
+1489,29,Matilde Rodrigues,Sales Associate
+1490,29,Francisco Gomes,Sales Associate
+1491,29,Rodrigo Gomes,Sales Associate
+1492,29,Leonor Costa,Sales Associate
+1493,29,Leonor Jesus,Sales Associate
+1494,29,Maria Gonçalves,Sales Associate
+1495,29,Afonso Silva,Sales Associate
+1496,29,Ana Oliveira,Sales Associate
+1497,29,Tiago Santos,Sales Associate
+1498,29,Matilde Pereira,Sales Associate
+1499,29,Beatriz Fernandes,Sales Associate
+1500,29,Miguel Martins,Sales Associate
+1501,29,Tiago Jesus,Sales Associate
+1502,29,Ana Pereira,Sales Associate
+1503,29,João Fernandes,Sales Associate
+1504,29,João Silva,Sales Associate
+1505,30,João Fernandes,Store Manager
+1506,30,Tiago Gomes,Department Manager
+1507,30,Afonso Fernandes,Department Manager
+1508,30,Inês Oliveira,Visual Merchandiser
+1509,30,Matilde Fernandes,Cashier
+1510,30,Duarte Sousa,Cashier
+1511,30,João Lopes,Cashier
+1512,30,Duarte Ferreira,Cashier
+1513,30,Maria Martins,Stock Associate
+1514,30,Carolina Oliveira,Stock Associate
+1515,30,Afonso Martins,Stock Associate
+1516,30,Mariana Sousa,Stock Associate
+1517,30,Francisco Santos,Sales Associate
+1518,30,Maria Martins,Sales Associate
+1519,30,Maria Oliveira,Sales Associate
+1520,30,Mariana Rodrigues,Sales Associate
+1521,30,Francisco Oliveira,Sales Associate
+1522,30,Maria Costa,Sales Associate
+1523,30,Carolina Pereira,Sales Associate
+1524,30,Maria Fernandes,Sales Associate
+1525,30,Inês Jesus,Sales Associate
+1526,30,Rodrigo Ferreira,Sales Associate
+1527,30,Beatriz Sousa,Sales Associate
+1528,30,Ana Costa,Sales Associate
+1529,30,Francisco Oliveira,Sales Associate
+1530,31,Lily Thompson,Store Manager
+1531,31,Olivia Johnson,Department Manager
+1532,31,Harry Wilson,Department Manager
+1533,31,Charlie Patel,Department Manager
+1534,31,Jacob Thompson,Department Manager
+1535,31,George Wright,Department Manager
+1536,31,Jack Walker,Visual Merchandiser
+1537,31,Ava Taylor,Visual Merchandiser
+1538,31,Charlie Evans,Visual Merchandiser
+1539,31,Thomas Davies,Cashier
+1540,31,Oliver Evans,Cashier
+1541,31,Alfie Brown,Cashier
+1542,31,Isla Brown,Cashier
+1543,31,George Patel,Cashier
+1544,31,Sophie Jones,Cashier
+1545,31,Alfie Walker,Cashier
+1546,31,Lily Williams,Stock Associate
+1547,31,Ava Smith,Stock Associate
+1548,31,Thomas Jones,Stock Associate
+1549,31,Charlie Evans,Stock Associate
+1550,31,Jack Williams,Stock Associate
+1551,31,George Wright,Stock Associate
+1552,31,Emily Davies,Stock Associate
+1553,31,Charlie Taylor,Sales Associate
+1554,31,Amelia Walker,Sales Associate
+1555,31,Oliver Walker,Sales Associate
+1556,31,Ava Thompson,Sales Associate
+1557,31,Jack Wilson,Sales Associate
+1558,31,Jacob Taylor,Sales Associate
+1559,31,Lily Wright,Sales Associate
+1560,31,Jack Evans,Sales Associate
+1561,31,Sophie Smith,Sales Associate
+1562,31,George Johnson,Sales Associate
+1563,31,Ava Williams,Sales Associate
+1564,31,Lily Wright,Sales Associate
+1565,31,Grace Jones,Sales Associate
+1566,31,Alfie Wilson,Sales Associate
+1567,31,Oliver Wright,Sales Associate
+1568,31,Grace Walker,Sales Associate
+1569,31,Jacob Thompson,Sales Associate
+1570,31,Alfie Thompson,Sales Associate
+1571,31,Thomas Williams,Sales Associate
+1572,31,Jacob Evans,Sales Associate
+1573,31,Jack Walker,Sales Associate
+1574,31,Isla Thompson,Sales Associate
+1575,31,Jack Robinson,Sales Associate
+1576,31,George Thompson,Sales Associate
+1577,31,Thomas Williams,Sales Associate
+1578,31,Emily Williams,Sales Associate
+1579,31,Ava Wright,Sales Associate
+1580,31,Jacob Patel,Sales Associate
+1581,31,Isla Jones,Sales Associate
+1582,31,Jacob Evans,Sales Associate
+1583,32,Thomas Johnson,Store Manager
+1584,32,Charlie Patel,Department Manager
+1585,32,Alfie Thompson,Department Manager
+1586,32,Charlie Davies,Department Manager
+1587,32,Grace Walker,Visual Merchandiser
+1588,32,Jack Evans,Cashier
+1589,32,Alfie Brown,Cashier
+1590,32,Charlie Walker,Cashier
+1591,32,Isla Evans,Cashier
+1592,32,Oliver Wilson,Cashier
+1593,32,Thomas Davies,Cashier
+1594,32,Jack Williams,Cashier
+1595,32,Alfie Johnson,Cashier
+1596,32,Isla Jones,Stock Associate
+1597,32,Isla Johnson,Stock Associate
+1598,32,Emily Smith,Stock Associate
+1599,32,George Walker,Stock Associate
+1600,32,Ava Wilson,Stock Associate
+1601,32,Grace Jones,Stock Associate
+1602,32,Ava Robinson,Stock Associate
+1603,32,Amelia Robinson,Stock Associate
+1604,32,Amelia Brown,Sales Associate
+1605,32,Isla Robinson,Sales Associate
+1606,32,Grace Robinson,Sales Associate
+1607,32,Sophie Jones,Sales Associate
+1608,32,Thomas Walker,Sales Associate
+1609,32,Isla Jones,Sales Associate
+1610,32,Grace Thompson,Sales Associate
+1611,32,Jack Brown,Sales Associate
+1612,32,Sophie Wilson,Sales Associate
+1613,32,Thomas Williams,Sales Associate
+1614,32,Thomas Jones,Sales Associate
+1615,32,Olivia Evans,Sales Associate
+1616,32,Jacob Williams,Sales Associate
+1617,32,Oliver Wright,Sales Associate
+1618,32,Lily Evans,Sales Associate
+1619,32,Thomas Williams,Sales Associate
+1620,32,Sophie Wright,Sales Associate
+1621,32,Charlie Patel,Sales Associate
+1622,32,Ava Williams,Sales Associate
+1623,32,Ava Taylor,Sales Associate
+1624,32,Jacob Davies,Sales Associate
+1625,32,Oliver Williams,Sales Associate
+1626,32,Sophie Taylor,Sales Associate
+1627,32,Emily Jones,Sales Associate
+1628,32,Ava Taylor,Sales Associate
+1629,32,Ava Brown,Sales Associate
+1630,32,Oliver Thompson,Sales Associate
+1631,32,Amelia Walker,Sales Associate
+1632,32,Thomas Evans,Sales Associate
+1633,32,Lily Walker,Sales Associate
+1634,32,Jack Walker,Sales Associate
+1635,32,Oliver Williams,Sales Associate
+1636,32,Olivia Wilson,Sales Associate
+1637,32,Jacob Wright,Sales Associate
+1638,32,Lily Davies,Sales Associate
+1639,32,Charlie Williams,Sales Associate
+1640,32,Isla Walker,Sales Associate
+1641,32,Thomas Davies,Sales Associate
+1642,32,Harry Taylor,Sales Associate
+1643,33,Sophie Robinson,Store Manager
+1644,33,George Jones,Department Manager
+1645,33,Lily Walker,Department Manager
+1646,33,Oliver Jones,Visual Merchandiser
+1647,33,Jack Smith,Cashier
+1648,33,Jacob Davies,Cashier
+1649,33,Ava Robinson,Cashier
+1650,33,Lily Walker,Cashier
+1651,33,Sophie Evans,Stock Associate
+1652,33,Harry Williams,Stock Associate
+1653,33,Sophie Thompson,Stock Associate
+1654,33,Lily Jones,Stock Associate
+1655,33,George Wright,Sales Associate
+1656,33,Isla Wright,Sales Associate
+1657,33,George Taylor,Sales Associate
+1658,33,Isla Patel,Sales Associate
+1659,33,Ava Smith,Sales Associate
+1660,33,George Brown,Sales Associate
+1661,33,Ava Evans,Sales Associate
+1662,33,Jacob Brown,Sales Associate
+1663,33,Lily Patel,Sales Associate
+1664,33,George Jones,Sales Associate
+1665,33,Grace Taylor,Sales Associate
+1666,33,Oliver Williams,Sales Associate
+1667,33,Emily Brown,Sales Associate
+1668,33,Ava Johnson,Sales Associate
+1669,33,Emily Evans,Sales Associate
+1670,33,Harry Jones,Sales Associate
+1671,33,Isla Smith,Sales Associate
+1672,33,Harry Wright,Sales Associate
+1673,34,Thomas Taylor,Store Manager
+1674,34,Emily Jones,Department Manager
+1675,34,Ava Walker,Department Manager
+1676,34,Charlie Evans,Visual Merchandiser
+1677,34,Isla Evans,Cashier
+1678,34,Oliver Wilson,Cashier
+1679,34,Jack Robinson,Cashier
+1680,34,Harry Evans,Cashier
+1681,34,Thomas Thompson,Cashier
+1682,34,George Robinson,Cashier
+1683,34,Harry Thompson,Stock Associate
+1684,34,Jacob Wright,Stock Associate
+1685,34,Harry Williams,Stock Associate
+1686,34,Thomas Davies,Stock Associate
+1687,34,Jacob Smith,Stock Associate
+1688,34,Emily Wilson,Stock Associate
+1689,34,Thomas Jones,Sales Associate
+1690,34,Jacob Walker,Sales Associate
+1691,34,Olivia Taylor,Sales Associate
+1692,34,Amelia Walker,Sales Associate
+1693,34,Harry Evans,Sales Associate
+1694,34,Charlie Patel,Sales Associate
+1695,34,Grace Smith,Sales Associate
+1696,34,Olivia Brown,Sales Associate
+1697,34,Jack Wilson,Sales Associate
+1698,34,George Taylor,Sales Associate
+1699,34,George Evans,Sales Associate
+1700,34,Olivia Patel,Sales Associate
+1701,34,Harry Davies,Sales Associate
+1702,34,Alfie Wright,Sales Associate
+1703,34,Grace Wilson,Sales Associate
+1704,34,Isla Jones,Sales Associate
+1705,34,Oliver Smith,Sales Associate
+1706,34,Olivia Wright,Sales Associate
+1707,34,Alfie Jones,Sales Associate
+1708,34,Alfie Davies,Sales Associate
+1709,34,Olivia Walker,Sales Associate
+1710,34,Isla Walker,Sales Associate
+1711,34,Emily Smith,Sales Associate
+1712,34,Harry Wilson,Sales Associate
+1713,34,Sophie Walker,Sales Associate
+1714,34,Thomas Patel,Sales Associate
+1715,34,Alfie Wright,Sales Associate
+1716,34,George Evans,Sales Associate
+1717,35,Emily Robinson,Store Manager
+1718,35,Oliver Thompson,Department Manager
+1719,35,Sophie Walker,Department Manager
+1720,35,Jack Jones,Visual Merchandiser
+1721,35,Alfie Smith,Cashier
+1722,35,Olivia Wilson,Cashier
+1723,35,Charlie Patel,Cashier
+1724,35,Isla Brown,Cashier
+1725,35,George Robinson,Stock Associate
+1726,35,Lily Williams,Stock Associate
+1727,35,Grace Jones,Stock Associate
+1728,35,Jack Jones,Stock Associate
+1729,35,Thomas Robinson,Sales Associate
+1730,35,George Jones,Sales Associate
+1731,35,Grace Patel,Sales Associate
+1732,35,Oliver Thompson,Sales Associate
+1733,35,Ava Patel,Sales Associate
+1734,35,Emily Wilson,Sales Associate
+1735,35,George Davies,Sales Associate
+1736,35,Charlie Walker,Sales Associate
+1737,35,Emily Wright,Sales Associate
+1738,35,Charlie Davies,Sales Associate
+1739,35,Charlie Wilson,Sales Associate
+1740,35,Charlie Walker,Sales Associate
+1741,35,Lily Walker,Sales Associate
+1742,35,Alfie Wilson,Sales Associate
+1743,35,Alfie Wright,Sales Associate
+1744,35,Grace Wilson,Sales Associate
+1745,35,Oliver Wilson,Sales Associate
+1746,35,Oliver Brown,Sales Associate

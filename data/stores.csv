@@ -1,0 +1,36 @@
+Store ID,Country,City,Store Name,Number of Employees,ZIP Code,Latitude,Longitude
+1,United States,New York,Zara Fifth Avenue,41,10022,40.7614,-73.9776
+2,United States,Los Angeles,Zara Beverly Center,62,90048,34.0754,-118.3773
+3,United States,Chicago,Zara Michigan Avenue,61,60611,41.8946,-87.6244
+4,United States,Miami,Zara Aventura,27,33180,25.9569,-80.1427
+5,United States,Houston,Zara Galleria Houston,36,77056,29.739,-95.4615
+6,中国,上海,Zara 南京西路,85,200040,31.2304,121.4737
+7,中国,北京,Zara 三里屯,59,100027,39.9334,116.4551
+8,中国,广州,Zara 天河路,59,510620,23.1367,113.3245
+9,中国,深圳,Zara 万象城,24,518048,22.5376,114.0011
+10,中国,成都,Zara 春熙路,32,610016,30.655,104.0816
+11,Deutschland,Berlin,Zara Kurfürstendamm,96,10719,52.5028,13.332
+12,Deutschland,Hamburg,Zara Mönckebergstraße,60,20095,53.5511,9.9937
+13,Deutschland,München,Zara Kaufingerstraße,58,80331,48.1388,11.5694
+14,Deutschland,Köln,Zara Schildergasse,30,50667,50.9384,6.9536
+15,Deutschland,Frankfurt am Main,Zara Zeil,42,60313,50.1144,8.682
+16,France,Paris,Zara Champs-Élysées,51,75008,48.8717,2.3005
+17,France,Lyon,Zara Rue de la République,62,69002,45.7616,4.8357
+18,France,Marseille,Zara Rue Saint-Ferréol,24,13001,43.295,5.377
+19,France,Toulouse,Zara Rue d'Alsace-Lorraine,33,31000,43.6045,1.444
+20,France,Nice,Zara Avenue Jean Médecin,33,06000,43.7009,7.2683
+21,España,Madrid,Zara Gran Vía,92,28013,40.4203,-3.7058
+22,España,Barcelona,Zara Passeig de Gràcia,106,08007,41.3917,2.1649
+23,España,Valencia,Zara Calle Colón,42,46004,39.4699,-0.3763
+24,España,Sevilla,Zara Plaza del Duque,31,41002,37.3925,-5.9957
+25,España,A Coruña,Zara Juana de Vega,28,15004,43.3681,-8.4062
+26,Portugal,Lisboa,Zara Chiado,88,1200-109,38.7105,-9.142
+27,Portugal,Porto,Zara Santa Catarina,46,4000-443,41.1496,-8.6066
+28,Portugal,Braga,Zara Braga Parque,44,4710-427,41.5576,-8.4047
+29,Portugal,Coimbra,Zara Forum Coimbra,43,3030-327,40.2111,-8.4413
+30,Portugal,Faro,Zara Forum Algarve,25,8009-020,37.0435,-7.9721
+31,United Kingdom,London,Zara Oxford Street,53,W1C 1JN,51.5152,-0.1419
+32,United Kingdom,Manchester,Zara Arndale,60,M4 3AQ,53.4839,-2.239
+33,United Kingdom,Birmingham,Zara Bullring,30,B5 4BU,52.4775,-1.8936
+34,United Kingdom,Glasgow,Zara Buchanan Street,44,G1 2FF,55.8617,-4.2524
+35,United Kingdom,Liverpool,Zara Liverpool ONE,30,L1 8JQ,53.4045,-2.9876
